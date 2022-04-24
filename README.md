@@ -10,9 +10,11 @@
 
 ## Experience
 
-- (주)거버넌스휴먼 : 
+- (주)거버넌스휴먼 :
+
      위치 기반 자동 신고 모듈 개발
 - 제 15회 Tmax 공개SW 개발자 대회 장려상 :
+
      Calamares 오픈소스를 활용한 TmaxOS 인스톨러 모듈 개발
 
 [![yonghanJu's github stats](https://github-readme-stats.vercel.app/api?username=yonghanJu&theme=algolia)](https://github.com/yonghanJu)
