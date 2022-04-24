@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Tech Stack
 
-![kotlin](https://img.shields.io/badge/kotlin-5F00FF) ![Android Studio](https://img.shields.io/badge/AndroidStudio-43853d) ![AAC](https://img.shields.io/badge/AAC-FFE400) ![JetpeckCompose](https://img.shields.io/badge/JetpeckCompose-0054FF)
+![Kotlin](https://img.shields.io/badge/kotlin-5F00FF) ![Android Studio](https://img.shields.io/badge/Android Studio-43853d) ![AAC](https://img.shields.io/badge/AAC-FFE400) ![JetpeckCompose](https://img.shields.io/badge/JetpeckCompose-0054FF)
 
 [![yonghanJu's github stats] (https://github-readme-stats.vercel.app/api?username=yonghanJu&theme=algolia)](https://github.com/yonghanJu)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yonghanJu&layout=compact&theme=algolia)
