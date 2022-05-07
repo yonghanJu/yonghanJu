@@ -22,6 +22,7 @@
 
 [![yonghanJu's github stats](https://github-readme-stats.vercel.app/api?username=yonghanJu&theme=algolia)](https://github.com/yonghanJu)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yonghanJu&layout=compact&theme=algolia)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tjsqls8337)](https://solved.ac/ju990828)
 
 ![](https://raw.githubusercontent.com/yonghanJu/yonghanJu/output/github-contribution-grid-snake.svg)
 
