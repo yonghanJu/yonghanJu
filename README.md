@@ -5,6 +5,22 @@
 
 더 나은 세상을 만들기 위해 노력하는 안드로이드 개발자 주용한입니다.
 
+## OpenSource Contribution
+
+- https://github.com/boguszpawlowski/ComposeCalendar
+
+- https://github.com/yonghanJu/CaptureComposable
+
+## Competition
+
+- 제 15회 TmaxOS 공개SW 개발자 대회 장려상 [Article], [작품 소개]
+
+     - Calamares 오픈소스를 활용한 TmaxOS 인스톨러 모듈 개발
+ 
+- 한국산업보건진흥원 공공데이터 아이디어 공모전 대상
+  
+     - 광자 인식, 공공데이터 api 활용 청소년 영양 솔루션 앱 개발 [Repo]
+
 
 ## Experience
 
@@ -17,11 +33,6 @@
 - (주)거버넌스휴먼 외주 개발
 
      - 안드로이드 위치 기반 자동 신고 모듈 개발
- 
-
-- 제 15회 TmaxOS 공개SW 개발자 대회 장려상 [Article], [작품 소개]
-
-     - Calamares 오픈소스를 활용한 TmaxOS 인스톨러 모듈 개발
 
 [![yonghanJu's github stats](https://github-readme-stats.vercel.app/api?username=yonghanJu&theme=algolia)](https://github.com/yonghanJu)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ju990828)](https://solved.ac/ju990828)
@@ -30,3 +41,4 @@
 
 [Article]:https://m.post.naver.com/viewer/postView.naver?volumeNo=32557003&memberNo=33037825
 [작품 소개]:http://bypub.kr/ebook/oss2021-1/index.html#p=60
+[Repo]:https://github.com/Lite-Weight/LiteWeight_Android
