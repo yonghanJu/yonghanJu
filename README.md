@@ -32,7 +32,7 @@
 
 - https://github.com/boguszpawlowski/ComposeCalendar
 
-- https://github.com/yonghanJu/CaptureComposable
+## Stats & Level
 
 [![yonghanJu's github stats](https://github-readme-stats.vercel.app/api?username=yonghanJu&theme=algolia)](https://github.com/yonghanJu)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ju990828)](https://solved.ac/ju990828)
