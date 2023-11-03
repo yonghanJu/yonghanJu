@@ -5,6 +5,26 @@
 
 더 나은 세상을 만들기 위해 노력하는 안드로이드 개발자 주용한입니다.
 
+## OpenSource Contribution
+
+- https://github.com/evant/kotlin-inject
+  
+- https://github.com/boguszpawlowski/ComposeCalendar
+
+## Experience
+
+- 프로그래머스 __상위 5% 탑 프로그래머스__ 발탁
+
+- __네이버 커넥트 재단 부스트캠프 웹・모바일 7기 멤버십__ 수료
+
+- __네이버 커넥트 재단 부스트캠프 웹・모바일 7기 챌린지__ 수료
+
+- __Google Developer Student Club__ Konkuk 23-24 member
+
+- (주)거버넌스휴먼 외주 개발
+
+     - 안드로이드 위치 기반 자동 신고 모듈 개발
+
 ## Competition
 
 - 한국산업보건진흥원 공공데이터 공모전 __대상__ [Article], [Repo]
@@ -15,22 +35,6 @@
 
      - Calamares 오픈소스를 활용한 TmaxOS 인스톨러 모듈 개발
 
-
-## Experience
-
-- 프로그래머스 __상위 5% 탑 프로그래머스__ 발탁
-
-- __네이버 커넥트 재단 부스트캠프 웹・모바일 7기 멤버십__ 수료
-
-- __네이버 커넥트 재단 부스트캠프 웹・모바일 7기 챌린지__ 수료
-
-- (주)거버넌스휴먼 외주 개발
-
-     - 안드로이드 위치 기반 자동 신고 모듈 개발
- 
-## OpenSource Contribution
-
-- https://github.com/boguszpawlowski/ComposeCalendar
 
 ## Stats & Level
 
