@@ -7,9 +7,12 @@
 
 ## OpenSource Contribution
 
-- https://github.com/evant/kotlin-inject
-  
-- https://github.com/boguszpawlowski/ComposeCalendar
+- refactor code
+  - https://github.com/evant/kotlin-injectrefactor
+
+- fix docs
+  - https://github.com/GetStream/webrtc-android
+  - https://github.com/boguszpawlowski/ComposeCalendar
 
 ## Experience
 
