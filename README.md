@@ -24,10 +24,6 @@
 
 - __Google Developer Student Club__ Konkuk 23-24 member
 
-- (주)거버넌스휴먼 외주 개발
-
-     - 안드로이드 위치 기반 자동 신고 모듈 개발
-
 ## Competition
 
 - 한국산업보건진흥원 공공데이터 공모전 __대상__ [Article], [Repo]
