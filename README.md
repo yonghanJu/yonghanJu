@@ -20,7 +20,7 @@
 
 ## Experience
 
-- 2024.08 ~ ing   넛지헬스케어(Cashwalk) Android Developer
+- 2024.08 ~ ing   Cashwalk Android Developer
 
 - 2024.01 ~ 2024.05 TJ미디어 Android Developer
 
