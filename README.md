@@ -20,7 +20,9 @@
 
 ## Experience
 
-- 2024.01 ~ 2024.05 TJ미디어 Android Developer [퍼펙트스코어 기능 개발]
+- 2024.08 ~ ing   넛지헬스케어(Cashwalk) Android Developer
+
+- 2024.01 ~ 2024.05 TJ미디어 Android Developer
 
 - 프로그래머스 __상위 5% 탑 프로그래머스__ 발탁
 
