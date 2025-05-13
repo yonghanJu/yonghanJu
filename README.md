@@ -1,6 +1,5 @@
 # JuYongHan
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FyonghanJu&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Contact](https://img.shields.io/badge/Contact-0FE4FF)](mailto:ju990828@naver.com)
 
 더 나은 세상을 만들기 위해 노력하는 안드로이드 개발자 주용한입니다 :) 
