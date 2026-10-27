@@ -19,6 +19,8 @@
 
 ## Experience
 
+- 2025.12 ~ ing   CashWalk Android Developer 파트장
+
 - 2024.08 ~ ing   CashWalk Android Developer
 
 - 2024.01 ~ 2024.05 TJ미디어 Android Developer
