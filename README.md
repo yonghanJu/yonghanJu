@@ -37,7 +37,7 @@
   
      - 광자 인식, 공공데이터 api 활용 청소년 영양 솔루션 앱 개발
 
-- __장려상__: 제 15회 TmaxOS 공개SW 개발자 대회  [공식 Blog], [작품 소개]
+- __장려상__: 제 15회 TmaxOS 공개SW 개발자 대회 [관련 기사]
 
      - Calamares 오픈소스를 활용한 TmaxOS 인스톨러 모듈 개발
 
@@ -49,7 +49,6 @@
 
 ![](https://raw.githubusercontent.com/yonghanJu/yonghanJu/output/github-contribution-grid-snake.svg)
 
-[공식 Blog]:https://m.post.naver.com/viewer/postView.naver?volumeNo=32557003&memberNo=33037825
-[작품 소개]:http://bypub.kr/ebook/oss2021-1/index.html#p=60
 [Repo]:https://github.com/Lite-Weight/LiteWeight_Android
 [Article]: https://it.chosun.com/site/data/html_dir/2023/09/01/2023090101142.html
+[관련 기사]: https://daily.hankooki.com/news/articleView.html?idxno=772479
